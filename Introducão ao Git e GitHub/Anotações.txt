@@ -1,3 +1,27 @@
-Link de download do Git:
-https://git-scm.com/downloads
+Introdução ao Git/ Git Hub
+
+Git trata-se de um sistema de versionamento de códigos distribuido
+GitHub: repositório online onde vamos armazenando nosso código
+
+Comandos para lembrar:
+dir: vai trazer uma lista de diretórios contidas na pasta a qual a gente está situado
+cd: possibilita que a gente navegue pelas pastas (usa-se a barra depois do nome da pasta a qual você quer navegar)
+ctrl l : comando para limpar a tela ou cls
+cd ..: comando para voltar para a o nível anterior (ou pasta anterior)
+TAB: comando para auto preencher o nome do diretório
+mkdir: criar uma pasta
+del: deletar um arquivo
+seta para cima: você anda pelos comandos que você fez anteriormente (é um atalho)
+git init: permite que o git comece a de fato a gerenciar e versionar o nosso código
+git add -a ou git add . ou git add * : envia do working directory para a staging area
+git commit -m: adiciona as alterações mais recentes do código ao repositório com um mensagem
+git push: empurrar o código do repositório local para o remoto (github)
+git status: ver o status dos arquivos
+git pull: comando para puxar o que esta no repositório remoto para minha máquina.
+git clone: clonar o repositório que esta no GitHub e trazer ele para o meu repositório local
+
+Link utéis:
+[GIT](https://git-scm.com/downloads)
+[MARKDOWN](https://www.markdownguide.org/basic-syntax/)
+
 O Git Bash é um terminal extendido para otimizar o uso do Git.
